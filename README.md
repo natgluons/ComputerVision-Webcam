@@ -29,3 +29,8 @@ This setup can be used for simple home security systems, smart doorbells, or any
 2. **Run the Python script**:
    - Use the provided Python script to connect to the ESP32-CAM's video stream.
    - OpenCV will detect and highlight faces in the video feed.
+
+## Result
+
+![computervision_webcam](https://github.com/user-attachments/assets/728f086b-8f61-4e34-9a72-20197c0c2a7e)
+
