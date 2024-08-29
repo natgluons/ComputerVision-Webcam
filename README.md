@@ -34,4 +34,7 @@ This setup can be used for simple home security systems, smart doorbells, or any
 
 ![computervision_webcam](https://github.com/user-attachments/assets/728f086b-8f61-4e34-9a72-20197c0c2a7e)
 
-![image](https://github.com/user-attachments/assets/028c81d3-5de6-4837-9256-e46b780e5eed)
+### Arduino IDE 
+
+![arduinoide](https://github.com/user-attachments/assets/c83de90c-f5af-4220-ae2e-1347311f0cda)
+
